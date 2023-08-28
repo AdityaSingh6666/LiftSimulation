@@ -2,4 +2,4 @@
 
 This is a Lift Simulation Project
 
-It has maximum of 1oo floors and 10 lifts
+It has maximum of 30 floors and 30 lifts
